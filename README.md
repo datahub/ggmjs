@@ -33,6 +33,10 @@ setwd('[parent folder to ggmjs]')
 install('ggmjs')
 ```
 
+Note:
+
+A more streamlined way of installing this package would be to use the [`install_github()`](https://cran.r-project.org/web/packages/githubinstall/vignettes/githubinstall.html) function from the [devtools](https://github.com/hadley/devtools) package. Because it is currently a private repo you would enter `install_github('datahub/ggmjs', auth_token = PAT)` in the R console, where PAT is a personal access token generated here: https://github.com/settings/tokens. If this repo were made public then `install_github('datahub/ggmjs')` alone would work.
+
 ## Develop
 
 Follow the instructions from the [Install](#install) section.
