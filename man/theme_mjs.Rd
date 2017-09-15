@@ -7,7 +7,7 @@
 theme_mjs()
 }
 \description{
-This function add be added to a ggplot2 plot to add MJS styles
+Add this to a ggplot2 plot to apply the default Milwaukee Journal Sentinel style
 }
 \examples{
 ggplot(mtcars, aes(x = hp, y = mpg)) + geom_point() + theme_mjs()
