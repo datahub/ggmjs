@@ -1,0 +1,10 @@
+Package: ggmjs
+Title: A ggplot2 Theme for the Milwaukee Journal Sentinel
+Version: 0.0.0.9000
+Authors@R: person("Andrew", "Mollica", email = "amollica@gannett.com", role = c("aut", "cre"))
+Description: Apply a Milwaukee Journal Sentinel's style to a ggplot2 graphic.
+Depends: R (>= 3.3.2)
+License: BSD-3-Clause
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
