@@ -2,7 +2,7 @@ require(ggplot2)
 
 #' A ggplot2 theme for the Milwaukee Journal Sentinel
 #'
-#' This function add be added to a ggplot2 plot to add MJS styles
+#' Add this to a ggplot2 plot to apply the default Milwaukee Journal Sentinel style
 #' @keywords ggplot2, theme
 #' @export
 #' @examples 
