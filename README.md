@@ -52,3 +52,5 @@ document()
 Reinstall the package following the instructions in the [Install](#install) section and you'll be able to test the library.
 
 See Hilary Parker's blog post on [writing R packages](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/) for a bit more context.
+
+Tips on editing ggplot themes: http://ggplot2.tidyverse.org/reference/theme.html
