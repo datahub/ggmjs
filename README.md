@@ -34,7 +34,7 @@ library(devtools)
 library(roxygen2)
 ```
 
-Pull down this repo from github.
+From the terminal, oull down this repo from github.
 ```
 git pull https://github.com/datahub/ggmjs.git
 ```
