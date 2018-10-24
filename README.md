@@ -12,6 +12,18 @@ A ggplot2 theme for the Milwaukee Journal Sentinel
 
 See the `examples/` folder for example graphics generated using the theme.
 
+## How do I use it?
+
+Add `+ theme_mjs()` to a ggplot2 chain of commands.
+
+For example:
+```R
+ggplot(mpg, aes(x = cty, y = hwy)) +
+  geom_point() +
+  ggtitle('Title', 'Subtitle') +
+  theme_mjs()
+```
+
 ## Install
 
 Install prequisites within the R console.
